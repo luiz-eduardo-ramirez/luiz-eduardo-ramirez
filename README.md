@@ -5,7 +5,7 @@
 
 <div>
 <p style="color: #fff; font-size: 30px; font-weight: 500">Desenvolvedor Front-end & Consultor de suporte de TI💻</p>
-<p style="color: #fff; font-size: 15px; font-weight: 500">Busco novas oportunidades de crescimento profissional na área de desenvolvimento web, suporte ao cliente e vendas de produtos de TI, com o intuito de aprimorar meus conhecimentos técnicos e crescer junto com a empresa e meus colegas de trabalho. </p>
+<p style="color: #fff; font-size: 15px; font-weight: 500">Busco novas oportunidades de crescimento profissional na área de desenvolvimento de aplicações, suporte ao cliente e vendas de produtos de TI, com o intuito de aprimorar meus conhecimentos técnicos e crescer junto com a empresa e meus colegas de trabalho. </p>
 
 </div>
 
