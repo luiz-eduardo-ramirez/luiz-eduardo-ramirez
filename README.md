@@ -4,8 +4,8 @@
 </div>
 
 <div>
-<p style="color: #fff; font-size: 30px; font-weight: 500">Desenvolvedor Front-end & Consultor de suporte de TI💻</p>
-<p style="color: #fff; font-size: 15px; font-weight: 500">Busco novas oportunidades de crescimento profissional na área de desenvolvimento de aplicações, suporte ao cliente e vendas de produtos de TI, com o intuito de aprimorar meus conhecimentos técnicos e crescer junto com a empresa e meus colegas de trabalho. </p>
+<p style="color: #fff; font-size: 30px; font-weight: 500">Desenvolvedor Full Stack & Analista de TI💻</p>
+<p style="color: #fff; font-size: 15px; font-weight: 500">Tenho experiência prática na arquitetura e desenvolvimento de APIs RESTful robustas utilizando Java (Spring Boot), integradas a interfaces responsivas com Bootstrap, HTML5 e CSS3. Minha vivência recente inclui não apenas a codificação, mas o ciclo completo de entrega: desde a modelagem de banco de dados SQL até o deploy e configuração de servidores em nuvem (Oracle Cloud Infrastructure) e gerenciamento de DNS. </p>
 
 </div>
 
