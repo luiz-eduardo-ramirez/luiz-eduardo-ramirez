@@ -1,59 +1,75 @@
-<div style="display:flex; width: 100%; justify-content: flex-start">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Luiz+Eduardo+Ramirez;Seja+bem-vindo!" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Sou+Luiz+Ramirez;Java+Backend+Developer;Cloud+Enthusiast+(OCI);Tech+Lead+no+Hackathon+Oracle" alt="Typing SVG" />
   </a>
 </div>
 
-<div>
-<p style="color: #fff; font-size: 30px; font-weight: 500">Desenvolvedor Full Stack & Analista de TI💻</p>
-<p style="color: #fff; font-size: 15px; font-weight: 500">Tenho experiência prática na arquitetura e desenvolvimento de APIs RESTful robustas utilizando Java (Spring Boot), integradas a interfaces responsivas com Bootstrap, HTML5 e CSS3. Minha vivência recente inclui não apenas a codificação, mas o ciclo completo de entrega: desde a modelagem de banco de dados SQL até o deploy e configuração de servidores em nuvem (Oracle Cloud Infrastructure) e gerenciamento de DNS. </p>
 
+
+<br/>
+
+## 🚀 Sobre Mim
+**Desenvolvedor Java | Spring Boot | OCI Certified**
+
+Meu foco é engenharia de software robusta. Especialista em construir **APIs RESTful** escaláveis com **Java e Spring Boot**, orquestrando bancos de dados **SQL** e criando interfaces modernas com **React**.
+
+Diferente da maioria, possuo vivência real de infraestrutura: realizo deploy e manutenção de aplicações na **Oracle Cloud (OCI)**, gerenciando servidores **Linux**, containers e redes.
+
+---
+
+## 🔥 Core Stack (Especialidades)
+*As tecnologias que utilizo diariamente para construir soluções de alto nível:*
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
-<div>
-<p style="color: #fff; font-size: 30px; font-weight: 500">Tecnologias</p>
+<br/>
+
+### 🛠️ Ecossistema & Ferramentas
+*Ferramentas de apoio, Design e DevOps:*
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-![HTML](https://img.shields.io/badge/html5-192436?style=for-the-badge&logo=html5&logoColor=orange)
-![CSS](https://img.shields.io/badge/css3-192436?style=for-the-badge&logo=css3)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-192436?style=for-the-badge&logo=javascript)
-![JAVA](https://img.shields.io/badge/java-192436?style=for-the-badge&logo=java)
-![FIGMA](https://img.shields.io/badge/figma-192436?style=for-the-badge&logo=figma)
-![VSCODE](https://img.shields.io/badge/vscode-192436?style=for-the-badge&logo=visualstudiocode)
-![GIT](https://img.shields.io/badge/Git-192436?style=for-the-badge&logo=git)
-![GITHUB](https://img.shields.io/badge/Github-192436?style=for-the-badge&logo=github)
-![MYSQL](https://img.shields.io/badge/Mysql-192436?style=for-the-badge&logo=mysql&logoColor=6E99F5)
-![CANVA](https://img.shields.io/badge/Canva-192436?style=for-the-badge&logo=canva)
-![PHOTOSHOP](https://img.shields.io/badge/Photoshop-192436?style=for-the-badge&logo=adobe-photoshop)
-![MSOFFICE](https://img.shields.io/badge/Microsoft%20Office-192436?style=for-the-badge&logo=microsoft-office)
-![WORDPRESS](https://img.shields.io/badge/Wordpress-192436?style=for-the-badge&logo=wordpress)
+---
 
-<div style="color: #fff; font-size: 30px; font-weight: 500">Projetos
+## 🏆 Projetos em Destaque
 
-![PORTFOLIO](https://img.shields.io/badge/Portfolio-192436?style=for-the-badge&logo=portfolio)
-![AMIGO SECRETO](https://img.shields.io/badge/Amigo%20Secreto-192436?style=for-the-badge&logo=amigo-secreto)
-![ESTUDIO MUSICAL MARAPASSOS](https://img.shields.io/badge/Estudio%20Musical%20Marapassos-192436?style=for-the-badge&logo=estudio-musical-marapassos)
+| Projeto | Stack Principal | Descrição |
+| :--- | :--- | :--- |
+| **ChurnInsight (Hackathon)** | `Java` `Spring` `OCI` | **Backend Lead.** API de predição de Churn integrando Microsserviços. Deploy via Docker na Oracle Cloud. |
+| **Mara Passos Portal** | `Java` `React` `SQL` | **Full Stack.** Sistema de gestão em produção. API Spring Boot e Frontend React rodando em Linux na OCI. |
+| **Portfólio Pessoal** | `React` `SPA` | Interface moderna e responsiva demonstrando skills de Frontend e consumo de APIs. |
 
-<div width="100%" text-align="left" justify="left">
+---
 
-<p style="color: #fff; font-size: 30px; font-weight: 500">Idiomas</p>
-
-![Português](https://img.shields.io/badge/Portugu%C3%AAs-192436?style=for-the-badge&logo=portugu%C3%AAs)
-![Inglês](https://img.shields.io/badge/Ingl%C3%AAs-192436?style=for-the-badge&logo=ingl%C3%AAs)
-![Español](https://img.shields.io/badge/Espa%C3%B1ol-192436?style=for-the-badge&logo=espa%C3%B1ol)
-
-<p style="color: #fff; font-size: 30px; font-weight: 500">Estatísticas do GitHub</p>
-<p> 
-  <a href="https://github.com/luiz-eduardo-ramirez">
-  <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api?username=luiz-eduardo-ramirez&theme=github_dark" /> 
+<div align="center">
+  <br>
+  <h3>Vamos nos conectar?</h3>
+  <a href="https://www.linkedin.com/in/luiz-ramirez" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-</p>  
-</div>
-
-<div> 
-    <p style="color: #fff; font-size: 30px; font-weight: 500">Redes Sociais</p>
-  <a href="wa.me/5511999987915" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&labelColor=25D366&logo=whatsapp&logoColor=white&link=LINK-DO-SEU-WHATSAPP" target="_blank"></a	>  
-  <a href="https://www.instagram.com/luizz_eduu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" target="_blank"></a>
-  <a href = "mailto:luizeduramirez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luiz-ramirez" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN"></a>  
-  <a href= "https://portfolio-luiz-eduardo-ramirez.vercel.app/"> 
+  <a href="mailto:luizeduramirez@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://wa.me/5511999987915" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
+  <a href="https://portfolio-luiz-eduardo-ramirez.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
+  </a>
 </div>
